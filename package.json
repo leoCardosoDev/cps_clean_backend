@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "keywords": ["api", "backend", "nodejs", "typescript"],
-  "author": "Seu Nome",
+  "author": "Leonardo Cardoso",
   "license": "MIT",
   "description": "API backend para o projeto CPS Clean"
 }
