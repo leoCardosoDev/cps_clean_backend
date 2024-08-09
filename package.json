@@ -5,8 +5,17 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["api", "backend", "nodejs", "typescript"],
+  "keywords": [
+    "api",
+    "backend",
+    "nodejs",
+    "typescript"
+  ],
   "author": "Leonardo Cardoso",
   "license": "MIT",
-  "description": "API backend para o projeto CPS Clean"
+  "description": "API backend para o projeto CPS Clean",
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "typescript": "^5.5.4"
+  }
 }
