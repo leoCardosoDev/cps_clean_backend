@@ -16,6 +16,7 @@
   "description": "API backend para o projeto CPS Clean",
   "devDependencies": {
     "@types/node": "^22.1.0",
+    "rimraf": "^6.0.1",
     "typescript": "^5.5.4"
   }
 }
