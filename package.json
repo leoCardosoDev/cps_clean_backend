@@ -1,0 +1,12 @@
+{
+  "name": "cps_clean_back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["api", "backend", "nodejs", "typescript"],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "description": "API backend para o projeto CPS Clean"
+}
